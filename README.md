@@ -7,6 +7,7 @@ This package is specifically the charting components for Ignite UI for Angular.
 #### [**View running samples here**](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid.html)
 
 #### [**Install our VSCode tooltip extension**](https://marketplace.visualstudio.com/items?itemName=Infragistics.igniteui-angular-tooltips)
+![](https://dl.infragistics.com/tools/extensions/angular-tooltips/tooltip_preview.gif)
 
 ## NPM Package
 
