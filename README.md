@@ -1,4 +1,5 @@
 # Ignite UI for Angular Charts - from Infragistics
+[![npm version](https://badge.fury.io/js/igniteui-angular.svg)](https://badge.fury.io/js/igniteui-angular)
 
 [Ignite UI for Angular](https://www.infragistics.com/products/ignite-ui-angular) is a complete set of Material-based UI Widgets, Components & Sketch UI kits and supporting directives for [Angular](https://angular.io/) by Infragistics.  Ignite UI for Angular is designed to enable developers to build the most modern, high-performance HTML5 & JavaScript apps for modern desktop browsers, mobile experiences and progressive web apps (PWA’s) targeting Google's Angular framework.  
 
